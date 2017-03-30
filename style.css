@@ -13,3 +13,9 @@ img{
 p.time{
   color:gray;
 }
+.citation a.external-link{
+  color: SeaGreen;
+}
+h1,h2,p,li{
+  font-family: Helvetica;
+}
